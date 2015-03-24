@@ -7,3 +7,5 @@ Repository for Foundations class http://training.github.com/kit/foundations
 * Vani
 
 ### cleaning up some text
+
+###Read the contributors file
